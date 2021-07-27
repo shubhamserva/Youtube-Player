@@ -5,7 +5,7 @@ import VideoList from './VideoList';
 import VideoDetail from './VideoDetail'
 
 
-const KEY = 'AIzaSyA_I5AZfDJMUG6CfGbeZFiI6deRJui1AuI'
+const KEY = 'AIzaSyBkWQJvCKvokda0PZW22zvHU5DRpa-P5Ek'
 class App extends React.Component{
 
    state = {
